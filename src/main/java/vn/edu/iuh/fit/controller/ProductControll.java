@@ -27,7 +27,7 @@ public class ProductControll {
 
     @GetMapping("/")
     public String showAllProduct(@RequestParam(defaultValue = "0") int page,
-                              @RequestParam(defaultValue = "3") int size,
+                              @RequestParam(defaultValue = "4") int size,
                               Model model) {
         Page<ProductPricePath> productPricePaths = productDao.getAll(page, size);
         model.addAttribute("productPricePaths", productPricePaths.getContent());
@@ -40,7 +40,7 @@ public class ProductControll {
     @GetMapping("/{cusID}")
     public String showAllProductForCus(@PathVariable Long cusID,
                               @RequestParam(defaultValue = "0") int page,
-                              @RequestParam(defaultValue = "3") int size,
+                              @RequestParam(defaultValue = "4") int size,
                               Model model) {
         List<OrderDetail> ods=orderDao.getLastOrder(cusID);
         Page<ProductPricePath> productPricePaths = productDao.getAll(page, size);

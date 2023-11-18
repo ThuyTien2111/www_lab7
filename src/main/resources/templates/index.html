@@ -61,7 +61,7 @@
 <div class="container">
     <div class="row">
         <!-- Use Thymeleaf to iterate over the list of products -->
-        <div th:each="product : ${productPricePaths}" class="col-md-4">
+        <div th:each="product : ${productPricePaths}" class="col-md-3">
             <div class="card">
                 <!-- Assuming the product has an image URL -->
                 <img th:src="${product.getPath()}" class="card-img-top" alt="Product Image">
