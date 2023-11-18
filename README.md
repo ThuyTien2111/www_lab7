@@ -116,7 +116,28 @@ Tôi hoan nghênh sự đóng góp từ cộng đồng để cải thiện dự 
 - [Thuy Tien](https://github.com/ThuyTien2111): Sinh viên năm cuối đang học tập tại IUH (Đại học Công nghiệp TPHCM).
 
 ## Hình ảnh sản phẩm
+[Imgur](https://i.imgur.com/uUPuTzY.png)
 
-![Ảnh mô tả sản phẩm](https://i.imgur.com/rGLZIgi.png)
+[Imgur](https://i.imgur.com/B57eNrS.png)
+
+[Imgur](https://i.imgur.com/bt2ByCT.png)
+
+[Imgur](https://i.imgur.com/Vx5s7FJ.png)
+
+[Imgur](https://i.imgur.com/NbfMmmc.png)
+
+[Imgur](https://i.imgur.com/WDghNV2.png)
+
+[Imgur](https://i.imgur.com/jTTFS3N.png)
+
+[Imgur](https://i.imgur.com/nUj04zc.png)
+
+[Imgur](https://i.imgur.com/IB17HR9.png)
+
+[Imgur](https://i.imgur.com/nXsRh5w.png)
+
+[Imgur](https://i.imgur.com/FJM6sYR.png)
+
+[Imgur](https://i.imgur.com/AA6RnqH.png)
 
 
